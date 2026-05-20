@@ -1,3 +1,4 @@
+#使读代码更快
 import sys
 input=sys.stdin.readline
 n,m=map(int,input().split())
